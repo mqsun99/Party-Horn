@@ -1,3 +1,7 @@
 # Party Horn
 
-Part 1 published at: https://mqsun99.github.io/wi21-cse110-lab5/.
+View at: https://mqsun99.github.io/Party-Horn/
+
+## Functions
+- Volumn adjusts (sliding bar/manually entering digits)
+- Three different sounds with different pictures showing
